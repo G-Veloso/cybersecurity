@@ -75,7 +75,3 @@ Based on this investigation, the following architectural controls are recommende
 3. **Domain Reputation Filtering:** Implement strict DNS filtering for newly registered or niche domains (e.g., `yeastiebeastie.com`) often used for exfiltration.
 
 ---
-
-**Analyst:** [Your Name/Gustavo]  
-**Specialization:** SOC Analyst / Information Technology Student  
-**Date:** April 2026
